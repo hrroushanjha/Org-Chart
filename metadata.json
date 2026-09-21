@@ -1,0 +1,6 @@
+{
+  "name": "OrgGraph Pro",
+  "description": "Visual organizational chart builder, hierarchy editor, and flowchart exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
